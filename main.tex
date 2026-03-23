@@ -1,0 +1,82 @@
+
+\documentclass[letterpaper, 11pt]{article}
+
+% Choose bibliography style for formatting list of publications
+\usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
+\bibliography{papers}
+
+% Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
+\def\theme{MidnightBlue}
+
+% More predefined colors can be found in 
+% https://en.wikibooks.org/wiki/LaTeX/Colors
+% Example photograph taken from Wikimedia Commons
+% https://commons.wikimedia.org/wiki/File:Kiara_Krit_passport.jpg
+
+\usepackage{simplecv}
+\usepackage{ragged2e}
+\pagestyle{empty}
+
+% Mis packages
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{hyperref}
+% \definecolor{linkcolour}{rgb}{0,0.2,0.6}
+% \definecolor{midnightblue}{rgb}{0.1, 0.1, 0.44}
+\hypersetup{colorlinks,breaklinks,urlcolor=MidnightBlue}
+\newcolumntype{C}{>{\centering\arraybackslash}X} 
+
+
+\boldname{Zorrilla Gamboa}{Jon}{N.}
+% \boldjob{Científico de datos}
+
+\begin{document}
+
+% Heading
+
+\begin{tabularx}{\linewidth}{@{} C @{}}
+\Huge{\textcolor{MidnightBlue}{Jon Zorrilla Gamboa}} \\[7.5pt]
+\textcolor{MidnightBlue}{Científico de datos} \\[7.5pt]
+
+\href{https://linkedin.com/in/jonzg}{\raisebox{-0.05\height}\faLinkedin\ Jonzg} \ $|$ \ 
+\href{https://github.com/jonzg}{\raisebox{-0.05\height}\faGithub\ Jonzg} \ $|$ \ 
+\href{mailto:jon.zorrilla03@gmail.com}{\raisebox{-0.05\height}\faEnvelope \ jon.zorrilla03@gmail.com} \ $|$ \
+\href{callto:+34 660 37 85 86}{\raisebox{-0.05\height}\faPhone \ +34 660 37 85 86} \  \ 
+\end{tabularx}
+% \headinginline{Jon Zorrilla Gamboa\\\normalsize Científico de datos}{
+%     % Website: \website{example.com} \\ 
+%     Email: \email{jon.zorrilla03@gmail.com} \\
+%     LinkedIn: \linkedin{Jonzg} \\
+%     GitHub: \github{Jonzg}
+% }
+
+% \headingphoto{Name Surname}{
+%     Website: \website{example.com} \\ 
+%     Email: \email{example@example.edu} \\
+%     LinkedIn: \linkedin{name-surname} \\
+%     GitHub: \github{example}
+% }{photo.jpg}
+
+\justify
+Científico de datos con formación en Física y Máster en Ciencia de Datos, con experiencia en el desarrollo, la implementación y la supervisión de modelos de ML y DL con MLflow, FastAPI y prácticas de MLOps. Experto en aprendizaje automático, aprendizaje profundo y análisis y predicción de series temporales, con experiencia demostrada en la entrega de soluciones de IA escalables e interpretables en los ámbitos científico e industrial.
+
+Apasionado por impulsar la innovación basada en datos a través de una experimentación sólida, la automatización y flujos de trabajo de ML reproducibles.
+
+% Page One
+\import{sections/}{experience.tex}
+\import{sections/}{education.tex}
+\import{sections/}{courses.tex}
+% \import{sections/}{publications.tex}
+
+% \pagebreak
+
+% Page Two
+% \import{sections/}{teaching.tex}
+\sidebyside
+    {\import{sections/}{skills.tex}}
+    {\import{sections/}{languages.tex}}
+% \import{sections/}{projects.tex}
+% \import{sections/}{awards.tex}
+% \import{sections/}{extracurricular.tex}
+
+\end{document}
