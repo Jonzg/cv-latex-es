@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1774518535.83885 -1
-  "main.bcf" 1774518535.76038 107531 0c026df1648e753145b95988d9863d83 "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1774538082.18087 -1
+  "main.bcf" 1774538082.09973 107531 0c026df1648e753145b95988d9863d83 "pdflatex"
   "papers.bib" 1774257142.19386 292 3930d2a5cfcb6c10688163f565442bca ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1774518534.93507 "/home/jonzg/latex_projects/cv_es/CV_jz_es/main.tex" "main.pdf" "main" 1774518535.83908 0
+["pdflatex"] 1774538081.70449 "/home/jonzg/latex_projects/cv_es/CV_jz_es/main.tex" "main.pdf" "main" 1774538082.18117 0
   "/etc/texmf/web2c/texmf.cnf" 1774256709.01165 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jonzg/latex_projects/cv_es/CV_jz_es/main.tex" 1774518422.20583 2714 c2fd3f82903200be8c3856ace9980607 ""
+  "/home/jonzg/latex_projects/cv_es/CV_jz_es/main.tex" 1774534760.41678 2751 d1c69b72c5944b146de14bc9e63a7541 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
@@ -21,7 +21,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
@@ -154,14 +153,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1774258527.42361 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1774258639 8212781 70ed5fe808d14341365fd7b94295484c ""
-  "main.aux" 1774518535.76038 1169 2e81b12d22f3968bf318273c0a30673a "pdflatex"
+  "main.aux" 1774538082.09973 1169 de675e7c52a516e03b20abb57a53156a "pdflatex"
   "main.bbl" 1774259742.40241 466 ee04f40f768daeed26442158e95aba61 "biber main"
-  "main.out" 1774518535.76038 627 adcab4abe226ac9ee026a6b7afa74238 "pdflatex"
-  "main.run.xml" 1774518535.76038 2429 aa27430cbcfbb331e81cd67eed9b29d4 "pdflatex"
-  "main.tex" 1774518422.20583 2714 c2fd3f82903200be8c3856ace9980607 ""
+  "main.out" 1774538082.09973 627 adcab4abe226ac9ee026a6b7afa74238 "pdflatex"
+  "main.run.xml" 1774538082.09973 2429 aa27430cbcfbb331e81cd67eed9b29d4 "pdflatex"
+  "main.tex" 1774534760.41678 2751 d1c69b72c5944b146de14bc9e63a7541 ""
   "sections/courses.tex" 1774517539.96476 971 9c4e9329efe05e8d76dc3c4b54f4511c ""
-  "sections/education.tex" 1774518426.05076 2228 46c698ed8e221bbb9420739ce919937c ""
-  "sections/experience.tex" 1774518534.67038 5210 9bc539210da3e40b561f6dced0fc43f0 ""
+  "sections/education.tex" 1774538081.43502 2206 584f56999f52473b3870e785e36bd56f ""
+  "sections/experience.tex" 1774538061.86467 7167 989d920937189299e45faf9210949291 ""
   "sections/languages.tex" 1774257142.27332 285 6d1e4aca6eebfac1897d4a9e49656486 ""
   "sections/projects.tex" 1774517868.04956 779 67681568f988e984bfca744efa2ebdbb ""
   "sections/skills.tex" 1774257142.29503 463 df7d2baaa8c136fcb0c58c1663f46eb6 ""
