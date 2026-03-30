@@ -16,5 +16,55 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{ai-driven}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1b4c636639a791fefce0afa8c4c155d5}{%
+           family={Zorrilla},
+           familyi={Z\bibinitperiod},
+           given={Jon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d17e9ced9e8c172b9f3a96d01f874ccd}{%
+           family={Seijo},
+           familyi={S\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6bc17728ded733e8f9564cf2055a9499}{%
+           family={Arenal},
+           familyi={A\bibinitperiod},
+           given={Unai},
+           giveni={U\bibinitperiod}}}%
+        {{hash=101ca0a25dfb7c6883c9213c258428e6}{%
+           family={Mena},
+           familyi={M\bibinitperiod},
+           given={Juan\bibnamedelima Ramón},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f653939997d162a748d0fb7a47e4e915}
+      \strng{fullhash}{b92f81ac616f4c4d04271a2fb2285f45}
+      \strng{bibnamehash}{b92f81ac616f4c4d04271a2fb2285f45}
+      \strng{authorbibnamehash}{b92f81ac616f4c4d04271a2fb2285f45}
+      \strng{authornamehash}{f653939997d162a748d0fb7a47e4e915}
+      \strng{authorfullhash}{b92f81ac616f4c4d04271a2fb2285f45}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Intelligent Infrastructure and Construction}
+      \field{number}{2}
+      \field{title}{{AI}-driven decision support system for proactive risk management in construction projects}
+      \field{volume}{2}
+      \field{year}{2026}
+      \true{nocite}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/iic2020004
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

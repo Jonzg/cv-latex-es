@@ -2,8 +2,10 @@
 \documentclass[letterpaper, 11pt]{article}
 
 % Choose bibliography style for formatting list of publications
-\usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
+\usepackage[style=ieee,url=false,doi=true,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
 \bibliography{papers}
+\DeclareFieldFormat{labelnumberwidth}{}
+\setlength{\biblabelsep}{0pt}
 
 % Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
 \def\theme{MidnightBlue}
@@ -21,6 +23,7 @@
 \usepackage{tabularx}
 \usepackage{fontawesome5}
 \usepackage{hyperref}
+\usepackage{xurl}
 % \definecolor{linkcolour}{rgb}{0,0.2,0.6}
 % \definecolor{midnightblue}{rgb}{0.1, 0.1, 0.44}
 \hypersetup{colorlinks,breaklinks,urlcolor=MidnightBlue}
@@ -64,7 +67,7 @@ Científico de datos e Ingeniero de IA con formación en Física y Máster en Ci
 \import{sections/}{experience.tex}
 \import{sections/}{education.tex}
 \import{sections/}{courses.tex}
-% \import{sections/}{publications.tex}
+\import{sections/}{publications.tex}
 
 % \pagebreak
 
