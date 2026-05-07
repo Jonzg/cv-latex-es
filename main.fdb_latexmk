@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1774617669.0995 "main.bcf" "main.bbl" "main" 1774617672.45977 0
-  "main.bcf" 1774617672.35789 107950 ee80072d0114823d036e7db22c9716bd "pdflatex"
+["biber main"] 1774617669.0995 "main.bcf" "main.bbl" "main" 1778148749.16037 0
+  "main.bcf" 1778148748.99734 107950 ee80072d0114823d036e7db22c9716bd "pdflatex"
   "papers.bib" 1774539626.6723 379 0912b5d6a6e36d3835a4dbe08e0efe59 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1774617671.43965 "/home/jonzg/latex_projects/cv_es/CV_jz_es/main.tex" "main.pdf" "main" 1774617672.4601 0
+["pdflatex"] 1778148747.52255 "/home/jonzg/latex_projects/cv_es/CV_jz_es/main.tex" "main.pdf" "main" 1778148749.16109 0
   "/etc/texmf/web2c/texmf.cnf" 1774256709.01165 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/jonzg/latex_projects/cv_es/CV_jz_es/main.tex" 1774617556.87653 2836 44a9fc00104c52f9ac6a42b70a7038f4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -156,14 +156,14 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1774258527.42361 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1774258639 8212781 70ed5fe808d14341365fd7b94295484c ""
-  "main.aux" 1774617672.35789 1257 555f84b3994da310ba34a98cddce8361 "pdflatex"
+  "main.aux" 1778148748.98734 1257 555f84b3994da310ba34a98cddce8361 "pdflatex"
   "main.bbl" 1774617669.82746 2330 c8434f384ddda4f88c8082e9b7b5a0bc "biber main"
-  "main.out" 1774617672.35789 627 adcab4abe226ac9ee026a6b7afa74238 "pdflatex"
-  "main.run.xml" 1774617672.36889 2429 aa27430cbcfbb331e81cd67eed9b29d4 "pdflatex"
+  "main.out" 1778148748.99734 627 adcab4abe226ac9ee026a6b7afa74238 "pdflatex"
+  "main.run.xml" 1778148748.99734 2429 aa27430cbcfbb331e81cd67eed9b29d4 "pdflatex"
   "main.tex" 1774617556.87653 2836 44a9fc00104c52f9ac6a42b70a7038f4 ""
-  "sections/courses.tex" 1774517539.96476 971 9c4e9329efe05e8d76dc3c4b54f4511c ""
+  "sections/courses.tex" 1775043525.02339 958 354a6320ca04b60fe8524b8eddd61eb8 ""
   "sections/education.tex" 1774538081.43502 2206 584f56999f52473b3870e785e36bd56f ""
-  "sections/experience.tex" 1774538061.86467 7167 989d920937189299e45faf9210949291 ""
+  "sections/experience.tex" 1778148747.05029 7663 fecf5af74cfed4b52cd21754d58d362c ""
   "sections/languages.tex" 1774257142.27332 285 6d1e4aca6eebfac1897d4a9e49656486 ""
   "sections/projects.tex" 1774517868.04956 779 67681568f988e984bfca744efa2ebdbb ""
   "sections/publications.tex" 1774617658.13898 389 1bc2d97d3c98e6b6518d315a6cb8bf06 ""
